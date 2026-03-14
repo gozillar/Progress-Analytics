@@ -36,9 +36,9 @@ The dashboard and analysis were designed to answer the following core questions.
 3. Cohort Progress Tracking
   * Which student cohorts are improving, stagnating, or declining?
   * Are there consistent performance trends within:
-Schools
-Grades
-Subject areas
+     * Schools
+     * Grades
+     * Subject areas
 
 4. Early Identification of Risk
   * Which students are not on track to meet expected progress benchmarks?
