@@ -70,24 +70,23 @@ The dashboard tracks several key performance indicators.
 ### Attainment Metrics
 Measures current academic performance.
 Examples:
-
-     * Assessment stage level
-     * MAP RIT score
-     * Grade-level proficiency
+* Assessment stage level
+* MAP RIT score
+* Grade-level proficiency
 
 ### Growth Metrics
 Measures academic progress over time.
 
 Examples:
-     * Score improvement from baseline
-     * Growth relative to expected MAP projections
-     * Progress across internal stage benchmarks
+* Score improvement from baseline
+* Growth relative to expected MAP projections
+* Progress across internal stage benchmarks
 
 ### Progress Status Indicators
 Students are categorized based on performance trends:
-     * Above Expected Progress
-     * Meeting Expected Progress
-     * Below Expected Progress
+* Above Expected Progress
+* Meeting Expected Progress
+* Below Expected Progress
 
 This classification helps identify students who require additional academic support.
 
