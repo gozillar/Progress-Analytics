@@ -23,11 +23,7 @@ The dashboard and analysis were designed to answer the following core questions.
 1. Baseline Performance
 
   * What is the starting academic level of students at the beginning of the school year?
-  * How does baseline performance vary by:
-      * School
-      * Grade level
-      * Subject area
-      * Assessment type
+  * How does baseline performance vary by: School, Grade level, Subject area, Assessment type
 
 2. Expected vs Actual Progress
   * Are students meeting the expected growth projections?
@@ -35,10 +31,7 @@ The dashboard and analysis were designed to answer the following core questions.
 
 3. Cohort Progress Tracking
   * Which student cohorts are improving, stagnating, or declining?
-  * Are there consistent performance trends within:
-     * Schools
-     * Grades
-     * Subject areas
+  * Are there consistent performance trends within: Schools, Grades, Subject areas
 
 4. Early Identification of Risk
   * Which students are not on track to meet expected progress benchmarks?
