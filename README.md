@@ -46,3 +46,195 @@ The dashboard and analysis were designed to answer the following core questions.
 
 5. Assessment Alignment
   * Do improvements in internal formative assessments translate to improvements in external standardized assessments?
+
+Analytical Framework
+
+The analysis follows a baseline → progress → evaluation framework.
+
+1. Baseline Measurement
+
+Students take standardized tests at the start of the school year to establish a performance baseline.
+
+This baseline provides:
+
+Initial attainment level
+
+Projected growth targets
+
+Expected year-end outcomes
+
+2. Progress Monitoring
+
+Throughout the school year, progress is monitored using:
+
+Internal formative assessments
+
+Interim standardized assessments
+
+These checkpoints allow educators to determine whether students are:
+
+On track
+
+Ahead of expectations
+
+At risk of falling behind
+
+3. Growth Evaluation
+
+Student progress is evaluated against:
+
+Expected MAP growth projections
+
+Internal benchmark expectations
+
+Termly and yearly progress targets
+
+Key Metrics & Indicators
+
+The dashboard tracks several key performance indicators.
+
+Attainment Metrics
+
+Measures current academic performance.
+
+Examples:
+
+Assessment stage level
+
+MAP RIT score
+
+Grade-level proficiency
+
+Growth Metrics
+
+Measures academic progress over time.
+
+Examples:
+
+Score improvement from baseline
+
+Growth relative to expected MAP projections
+
+Progress across internal stage benchmarks
+
+Progress Status Indicators
+
+Students are categorized based on performance trends:
+
+Above Expected Progress
+
+Meeting Expected Progress
+
+Below Expected Progress
+
+This classification helps identify students who require additional academic support.
+
+Dashboard Capabilities
+
+The Power BI dashboard enables stakeholders to:
+
+Performance Monitoring
+
+Track attainment and progress across schools
+
+Compare grades and subjects
+
+Cohort Analysis
+
+Monitor specific student groups
+
+Evaluate trends within schools
+
+Early Intervention
+
+Identify students falling behind expected progress
+
+Prioritize targeted academic support
+
+Cross-Assessment Comparison
+
+Evaluate alignment between internal and standardized assessments
+
+Technical Implementation
+
+The project was built using Power BI with a structured data modeling approach.
+
+Data Preparation
+
+Cleaning and harmonizing multiple assessment datasets
+
+Standardizing student identifiers across sources
+
+Structuring data into relational tables
+
+Data Modeling
+
+A star schema was used to support efficient reporting:
+
+Fact tables:
+
+Assessment results
+
+Progress measurements
+
+Dimension tables:
+
+Student
+
+School
+
+Grade
+
+Assessment type
+
+Time period
+
+Calculations
+
+Custom metrics and KPIs were implemented using DAX, including:
+
+Growth calculations
+
+Progress benchmarks
+
+Performance classification indicators
+
+Visualization
+
+Interactive dashboards were built to allow users to filter by:
+
+School
+
+Grade
+
+Assessment
+
+Time period
+
+Student cohort
+
+Example Analytical Insights
+
+Examples of insights generated through this analysis include:
+
+Identifying schools where literacy progress was slower than projected
+
+Detecting grade levels where math attainment lagged behind reading
+
+Identifying students who showed strong classroom progress but weaker standardized performance
+
+Highlighting cohorts that required early intervention support
+
+Impact
+
+This analysis enabled school leaders to:
+
+Monitor academic progress in near real time
+
+Allocate instructional support more effectively
+
+Identify struggling students earlier
+
+Evaluate whether interventions were improving outcomes
+
+By turning raw assessment data into actionable insights, the project helped schools make data-informed decisions to support student achievement.
