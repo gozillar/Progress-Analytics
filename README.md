@@ -179,7 +179,7 @@ Interactive dashboards were built to allow users to filter by:
 * Time period
 * Student cohort
 
-## Example Analytical Insights
+## Analytical Insights
 
 Examples of insights generated through this analysis include:
 
