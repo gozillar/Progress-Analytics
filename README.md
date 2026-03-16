@@ -37,31 +37,31 @@ The dashboard and analysis were designed to answer the following core questions.
    * How early in the year can risk be detected?
 
 5. Assessment Alignment
-       * Do improvements in internal formative assessments translate to improvements in external standardized assessments?
+   * Do improvements in internal formative assessments translate to improvements in external standardized assessments?
 
 ## Analytical Framework
 The analysis follows a baseline → progress → evaluation framework.
 
 1. Baseline Measurement
 Students take standardized tests at the start of the school year to establish a performance baseline. This baseline provides:
-       * Initial attainment level
-       * Projected growth targets
-       * Expected year-end outcomes
+   * Initial attainment level
+   * Projected growth targets
+   * Expected year-end outcomes
 
 2. Progress Monitoring
 Throughout the school year, progress is monitored using:
-       * Internal formative assessments
-       * Interim standardized assessments
+   * Internal formative assessments
+   * Interim standardized assessments
 
 These checkpoints allow educators to determine whether students are:
-       * On track
-       * Ahead of expectations
-       * At risk of falling behind
+   * On track
+   * Ahead of expectations
+   * At risk of falling behind
 
 3. Growth Evaluation
 Student progress is evaluated against:
-       * Expected MAP growth projections
-       * Internal benchmark expectations
+   * Expected MAP growth projections
+   * Internal benchmark expectations
 
 Termly and yearly progress targets
 
