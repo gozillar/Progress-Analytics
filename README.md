@@ -62,8 +62,7 @@ These checkpoints allow educators to determine whether students are:
 Student progress is evaluated against:
    * Expected MAP growth projections
    * Internal benchmark expectations
-
-Termly and yearly progress targets
+   * Termly and yearly progress targets
 
 ## Key Metrics & Indicators
 The dashboard tracks several key performance indicators.
@@ -96,27 +95,27 @@ This classification helps identify students who require additional academic supp
 The Power BI dashboard enables stakeholders to:
 
 ### Performance Monitoring
-       * Track attainment and progress across schools
-       * Compare grades and subjects
+     * Track attainment and progress across schools
+     * Compare grades and subjects
 
 ### Cohort Analysis
-      * Monitor specific student groups
-      * Evaluate trends within schools
+     * Monitor specific student groups
+     * Evaluate trends within schools
 
 ### Early Intervention
-      * Identify students falling behind expected progress
-      * Prioritize targeted academic support
+     * Identify students falling behind expected progress
+     * Prioritize targeted academic support
 
 ### Cross-Assessment Comparison
-* Evaluate alignment between internal and standardized assessments
+     * Evaluate alignment between internal and standardized assessments
 
 ## Technical Implementation
 The project was built using Power BI with a structured data modeling approach.
 
 ### Data Preparation
-* Cleaning and harmonizing multiple assessment datasets
-* Standardizing student identifiers across sources
-* Structuring data into relational tables
+     * Cleaning and harmonizing multiple assessment datasets
+     * Standardizing student identifiers across sources
+     * Structuring data into relational tables
 
 ### Data Modeling
 A star schema was used to support efficient reporting:
