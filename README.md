@@ -52,11 +52,10 @@ Students take standardized tests at the start of the school year to establish a 
    Throughout the school year, progress is monitored using:
    * Internal formative assessments
    * Interim standardized assessments
-
 These checkpoints allow educators to determine whether students are:
-   * On track
-   * Ahead of expectations
-   * At risk of falling behind
+        * On track
+        * Ahead of expectations
+        * At risk of falling behind
 
 3. Growth Evaluation:
 Student progress is evaluated against:
@@ -75,9 +74,7 @@ Examples:
 * Grade-level proficiency
 
 ### Growth Metrics
-Measures academic progress over time.
-
-Examples:
+Measures academic progress over time. Examples:
 * Score improvement from baseline
 * Growth relative to expected MAP projections
 * Progress across internal stage benchmarks
