@@ -20,47 +20,47 @@ Without a centralized analytics solution, these insights were difficult to obtai
 The dashboard and analysis were designed to answer the following core questions.
 
 1. Baseline Performance
-  * What is the starting academic level of students at the beginning of the school year?
-  * How does baseline performance vary by: School, Grade level, Subject area, Assessment type
+       * What is the starting academic level of students at the beginning of the school year?
+       * How does baseline performance vary by: School, Grade level, Subject area, Assessment type
 
 2. Expected vs Actual Progress
-  * Are students meeting the expected growth projections?
-  * How does actual progress compare to benchmark progress targets?
+       * Are students meeting the expected growth projections?
+       * How does actual progress compare to benchmark progress targets?
 
 3. Cohort Progress Tracking
-  * Which student cohorts are improving, stagnating, or declining?
-  * Are there consistent performance trends within: Schools, Grades, Subject areas
+       * Which student cohorts are improving, stagnating, or declining?
+       * Are there consistent performance trends within: Schools, Grades, Subject areas
 
 4. Early Identification of Risk
-  * Which students are not on track to meet expected progress benchmarks?
-  * How early in the year can risk be detected?
+       * Which students are not on track to meet expected progress benchmarks?
+       * How early in the year can risk be detected?
 
 5. Assessment Alignment
-  * Do improvements in internal formative assessments translate to improvements in external standardized assessments?
+       * Do improvements in internal formative assessments translate to improvements in external standardized assessments?
 
 ## Analytical Framework
 The analysis follows a baseline → progress → evaluation framework.
 
 1. Baseline Measurement
 Students take standardized tests at the start of the school year to establish a performance baseline. This baseline provides:
-   * Initial attainment level
-   * Projected growth targets
-   * Expected year-end outcomes
+       * Initial attainment level
+       * Projected growth targets
+       * Expected year-end outcomes
 
 2. Progress Monitoring
 Throughout the school year, progress is monitored using:
-   * Internal formative assessments
-   * Interim standardized assessments
+       * Internal formative assessments
+       * Interim standardized assessments
 
 These checkpoints allow educators to determine whether students are:
-   * On track
-   * Ahead of expectations
-   * At risk of falling behind
+       * On track
+       * Ahead of expectations
+       * At risk of falling behind
 
 3. Growth Evaluation
 Student progress is evaluated against:
-* Expected MAP growth projections
-* Internal benchmark expectations
+       * Expected MAP growth projections
+       * Internal benchmark expectations
 
 Termly and yearly progress targets
 
@@ -71,23 +71,23 @@ The dashboard tracks several key performance indicators.
 Measures current academic performance.
 Examples:
 
-* Assessment stage level
-* MAP RIT score
-* Grade-level proficiency
+       * Assessment stage level
+       * MAP RIT score
+       * Grade-level proficiency
 
 ### Growth Metrics
 Measures academic progress over time.
 
 Examples:
-* Score improvement from baseline
-* Growth relative to expected MAP projections
-* Progress across internal stage benchmarks
+       * Score improvement from baseline
+       * Growth relative to expected MAP projections
+       * Progress across internal stage benchmarks
 
 ### Progress Status Indicators
 Students are categorized based on performance trends:
-* Above Expected Progress
-* Meeting Expected Progress
-* Below Expected Progress
+       * Above Expected Progress
+       * Meeting Expected Progress
+       * Below Expected Progress
 
 This classification helps identify students who require additional academic support.
 
@@ -95,16 +95,16 @@ This classification helps identify students who require additional academic supp
 The Power BI dashboard enables stakeholders to:
 
 ### Performance Monitoring
-* Track attainment and progress across schools
-* Compare grades and subjects
+       * Track attainment and progress across schools
+       * Compare grades and subjects
 
 ### Cohort Analysis
-* Monitor specific student groups
-* Evaluate trends within schools
+      * Monitor specific student groups
+      * Evaluate trends within schools
 
 ### Early Intervention
-* Identify students falling behind expected progress
-* Prioritize targeted academic support
+      * Identify students falling behind expected progress
+      * Prioritize targeted academic support
 
 ### Cross-Assessment Comparison
 * Evaluate alignment between internal and standardized assessments
