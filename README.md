@@ -1,5 +1,5 @@
 # Student Attainment & Progress Analytics 
-## (Multi-School Assessment Project)
+# (A Multi-School Assessment Project)
 This project analyzes student attainment and academic progress across a cluster of six schools using both internal formative assessments and external standardized tests. The goal of the analysis was to monitor whether students were making the expected academic progress throughout the school year, identify learning gaps early, and provide school leaders with actionable insights to guide instructional interventions.
 
 The analysis was implemented in Power BI and integrates multiple assessment data sources to track baseline performance, expected progress trajectories, and actual student growth over time.
@@ -29,12 +29,12 @@ The dashboard and analysis were designed to answer the following core questions.
       * How does actual progress compare to benchmark progress targets?
 
 3. Cohort Progress Tracking
-       * Which student cohorts are improving, stagnating, or declining?
-       * Are there consistent performance trends within: Schools, Grades, Subject areas
+   * Which student cohorts are improving, stagnating, or declining?
+   * Are there consistent performance trends within: Schools, Grades, Subject areas
 
 4. Early Identification of Risk
-       * Which students are not on track to meet expected progress benchmarks?
-       * How early in the year can risk be detected?
+   * Which students are not on track to meet expected progress benchmarks?
+   * How early in the year can risk be detected?
 
 5. Assessment Alignment
        * Do improvements in internal formative assessments translate to improvements in external standardized assessments?
